@@ -14,6 +14,9 @@ https://github.com/sharmer156/My_github
 ### lighting66ban
 https://github.com/lighting66ban/Lighting-Terminology (照明类术语OCR）
 ### sharmmer
+https://github.com/sharmmer/python-learn-0 (python学习）
+### CG
+https://github.com/CG-design/UnrealEnginePython
 
 1. https://github.com/sharmmer/awesome-for-beginners (awesome总括类项目 说明）
 1. https://github.com/sharmmer/gaohaoyang.github.io (博客备份）
@@ -41,4 +44,6 @@ https://github.com/sharmer156/CMD
 1. https://github.com/sharmer156/coggle-translations (coggle软件翻译）
 1. https://github.com/nordprojects/lantern （lantern灯）
 1. https://github.com/sharmer156/awesome-python-cn（python-cn库）
+1. https://github.com/sharmer156/machine-learning-open-source（每月金品机器学习开源工具或库）
+1.https://github.com/TreeofAI/Artificial-Intelligence-Terminology（AI主要术语）
 ## star项目
