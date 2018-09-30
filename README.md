@@ -45,5 +45,8 @@ https://github.com/sharmer156/CMD
 1. https://github.com/nordprojects/lantern （lantern灯）
 1. https://github.com/sharmer156/awesome-python-cn（python-cn库）
 1. https://github.com/sharmer156/machine-learning-open-source（每月金品机器学习开源工具或库）
-1.https://github.com/TreeofAI/Artificial-Intelligence-Terminology（AI主要术语）
+1. https://github.com/TreeofAI/Artificial-Intelligence-Terminology（AI主要术语）
+1. https://github.com/sharmer156/github（github使用）
+1. https://github.com/sharmer156/project-guidelines（github项目规范）
+
 ## star项目
