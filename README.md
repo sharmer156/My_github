@@ -16,13 +16,12 @@ https://github.com/lighting66ban/Lighting-Terminology (照明类术语OCR）
 ### sharmmer
 https://github.com/sharmmer/python-learn-0 (python学习）
 ### CG
-https://github.com/CG-design/UnrealEnginePython
-
+1. https://github.com/CG-design/UnrealEnginePython
 1. https://github.com/sharmmer/awesome-for-beginners (awesome总括类项目 说明）
 1. https://github.com/sharmmer/gaohaoyang.github.io (博客备份）
 1. https://github.com/sharmmer/work1 (接触过的软件）
 1. https://github.com/sharmmer/github-start (记录如何开始GITHUB，GITHUB的一些基础）
-1. 
+
 
 ### DESIGN
 ### lighting
@@ -35,7 +34,9 @@ https://github.com/CG-design/UnrealEnginePython
 1. https://github.com/sharmer156/sharmer156.github.io (博客)
 
 ### cmd
-https://github.com/sharmer156/CMD
+1. https://github.com/sharmer156/CMD
+
+
 ## Fork项目
 1. https://github.com/sharmer156/speech_recognition (vioce_to_txt)
 1. https://github.com/sharmer156/StarGAN-Tensorflow (GAN img)
@@ -50,3 +51,5 @@ https://github.com/sharmer156/CMD
 1. https://github.com/sharmer156/project-guidelines（github项目规范）
 
 ## star项目
+
+ 1. List item
