@@ -6,8 +6,8 @@ https://github.com/sharmer156/My_github
 
 - **[团队项目](#团队项目)**
 - **[原创项目](#原创项目)**
-- **[fork项目](#原创项目)**
-- **[star项目](#原创项目)**
+- **[Fork项目](#Fork项目)**
+- **[Star项目](#Star项目)**
 * https://developer.github.com/v3/libraries/ (github开发者平台)
 # github 项目管理
 ## 团队项目
@@ -36,7 +36,7 @@ https://github.com/CG-design/UnrealEnginePython
 
 ### cmd
 https://github.com/sharmer156/CMD
-## fork项目
+## Fork项目
 1. https://github.com/sharmer156/speech_recognition (vioce_to_txt)
 1. https://github.com/sharmer156/StarGAN-Tensorflow (GAN img)
 1. https://github.com/aymericdamien/TensorFlow-Examples (TensorFlow-Examples )
