@@ -49,7 +49,7 @@ https://github.com/sharmmer/python-learn-0 (python学习）
 1. https://github.com/TreeofAI/Artificial-Intelligence-Terminology（AI主要术语）
 1. https://github.com/sharmer156/github（github使用）
 1. https://github.com/sharmer156/project-guidelines（github项目规范）
-
+1. https://github.com/sharmer156/free-for-dev（github免费的网上服务）
 ## star项目
 
  1. List item
