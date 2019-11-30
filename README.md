@@ -32,7 +32,16 @@ https://github.com/sharmmer/python-learn-0 (python学习）
 1. https://github.com/sharmer156/GOOGLE_AI_to_music  (AI music)
 1. https://github.com/sharmer156/markdown (markdown语法及使用)
 1. https://github.com/sharmer156/sharmer156.github.io (博客)
-
+1. https://github.com/sharmmer/format_conversion/blob/master/README.md (常用办公类格式转换 )
+1. https://github.com/CG-design/File-Formats （CG常用格式及转换 ，CG file formats and convert）
+1. https://github.com/TreeofAI/AI_File_Formats （AI相关文件格式）
+1. https://github.com/sharmmer/chrome_extensions  (chrome常用的一些chrome插件)
+1. https://github.com/sharmmer/python-learn-0 (python 学习）
+1. https://github.com/sharmmer/used_soft （使用的软件）
+1. https://github.com/lighting66ban/stop-word （知识图谱-NPL处理的基础-停用词）
+1. https://github.com/lighting66ban/Lighting-Terminology （ 照明术语）
+1. https://github.com/TreeofAI/Algorithm-Data_structure （ 算法及数据结构）
+1. https://github.com/mind-map/my_mind-pre2017 我的思维导图2017
 ### cmd
 1. https://github.com/sharmer156/CMD
 
