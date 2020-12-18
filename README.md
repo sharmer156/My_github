@@ -9,6 +9,7 @@ https://github.com/sharmer156/My_github
 - **[Fork项目](#Fork项目)**
 - **[Star项目](#Star项目)**
 * https://developer.github.com/v3/libraries/ (github开发者平台)
+* https://github.com/trending (github趋势)
 # github 项目管理
 ## 团队项目
 ### lighting66ban
