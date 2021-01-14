@@ -44,6 +44,7 @@ https://github.com/sharmmer/python-learn-0 (python学习）
 1. https://github.com/TreeofAI/Algorithm-Data_structure （ 算法及数据结构）
 1. https://github.com/mind-map/my_mind-pre2017 我的思维导图2017
 1. https://github.com/sharmer156/Free_TLandweb  收集免费的工具和网站
+
 ### cmd
 1. https://github.com/sharmer156/CMD
 
@@ -55,13 +56,13 @@ https://github.com/sharmmer/python-learn-0 (python学习）
 1. https://github.com/quantumlib/Cirq (量子编程库 )
 1. https://github.com/sharmer156/coggle-translations (coggle软件翻译）
 1. https://github.com/nordprojects/lantern （lantern灯）
-1. https://github.com/sharmer156/awesome-python-cn（python-cn库）
+
 1. https://github.com/sharmer156/machine-learning-open-source（每月金品机器学习开源工具或库）
 1. https://github.com/TreeofAI/Artificial-Intelligence-Terminology（AI主要术语）
 1. https://github.com/sharmer156/github（github使用）
 1. https://github.com/sharmer156/project-guidelines（github项目规范）
 1. https://github.com/sharmer156/free-for-dev（github免费的网上服务）
 
-## star项目
-
- 1. List item
+## Awesome项目
+1. https://github.com/sharmer156/awesome-python-cn（python-cn库）
+1. https://github.com/sharmer156/Free_TLandweb -Awesome - 图片分类总类Image Classification
