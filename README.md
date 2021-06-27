@@ -6,6 +6,7 @@ https://github.com/sharmer156/My_github
 
 - **[团队项目](#团队项目)**
 - **[原创项目](#原创项目)**
+- **[Colab项目](#Colab项目)**
 - **[Fork项目](#Fork项目)**
 - **[Star项目](#Star项目)**
 * https://developer.github.com/v3/libraries/ (github开发者平台)
@@ -44,6 +45,11 @@ https://github.com/sharmmer/python-learn-0 (python学习）
 1. https://github.com/TreeofAI/Algorithm-Data_structure （ 算法及数据结构）
 1. https://github.com/mind-map/my_mind-pre2017 我的思维导图2017
 1. https://github.com/sharmer156/Free_TLandweb  收集免费的工具和网站
+
+## [Colab项目](#Colab项目)**
+1. AI指挥另一个AI https://colab.research.google.com/drive/1e29RU8mrcX6qFjTXK31wKqYXlzRjOcD5
+* https://github.com/sharmer156/CLIP
+1. 
 
 ### cmd
 1. https://github.com/sharmer156/CMD
