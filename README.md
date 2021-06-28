@@ -49,7 +49,10 @@ https://github.com/sharmmer/python-learn-0 (python学习）
 ## [Colab项目](#Colab项目)**
 1. AI指挥另一个AI https://colab.research.google.com/drive/1e29RU8mrcX6qFjTXK31wKqYXlzRjOcD5
 * https://github.com/sharmer156/CLIP
-1. 
+1. 音乐分离 https://colab.research.google.com/github/sharmer156/music_separate/blob/master/results.ipynb
+* https://github.com/sharmer156/music_separate
+1.文字写作文https://colab.research.google.com/drive/1p_3zfISwZ3RB0gRnkNWahZgEHtbmT7L3#scrollTo=Cutcs5I3lTFK
+* https://github.com/imcaspar/gpt2-ml
 
 ### cmd
 1. https://github.com/sharmer156/CMD
